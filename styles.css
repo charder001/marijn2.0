@@ -37,6 +37,10 @@ h1 {
     margin: 0 0 1em 0;
 }
 
+h3 {
+    text-align: center;
+}
+
 #spotifyLink {
     position: fixed;
     font-size: 1.5em;
