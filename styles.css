@@ -16,6 +16,7 @@ a {
 .mainLink {
     padding: .5em;
     margin: .5em auto .5em auto;
+    font-size: 1.3em;
 }
 
 a:focus,
