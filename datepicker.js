@@ -4,7 +4,7 @@ var blocksPerRow = 7;
 
 
 for (; i < 31; i++) {
-    html += `<a href="day/${i}" class='test'>${i}</a>`;
+    html += `<a href="hour.html" class='test'>${i}</a>`;
 }
 
 document.querySelector("#wrapper").innerHTML = html
