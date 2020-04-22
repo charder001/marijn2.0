@@ -13,6 +13,10 @@ a {
     background-color: rgb(61, 61, 61);
 }
 
+#banner {
+    width: 100%;
+}
+
 .mainLink {
     padding: .5em;
     margin: .5em auto .5em auto;
